@@ -1,4 +1,4 @@
-> Fork of [unclebob/crapper](https://github.com/unclebob/crapper) at `6fd92c4`, adding Ruby/Rails support (grcarey/agents_and_skills#131).
+> Fork of [unclebob/crapper](https://github.com/unclebob/crapper) at `6fd92c4`, adding Ruby/Rails support (grcarey-aquidity/agents_and_skills#131).
 
 # crapper
 
